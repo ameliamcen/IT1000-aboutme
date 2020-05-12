@@ -1,0 +1,10 @@
+# SVG Star
+
+**CODE**
+ `<svg height="300" width="500">
+  <polygon points="100,10 40,198 190,78 10,78 160,198"
+  style="fill:yellow;stroke:yellow;stroke-width:2;fill-rule:nonzero;" />
+</svg>`
+
+The finished product should look like this:
+![star](star.svg)
